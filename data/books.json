@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Red October",
+    "categoryId": 1,
+    "publisherId": 1,
+    "authorId": 1
+  },
+  {
+    "id": 3,
+    "title": "Fall Visiting",
+    "categoryId": 1,
+    "publisherId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 4,
+    "title": "Designated Driver",
+    "categoryId": 2,
+    "publisherId": 2,
+    "authorId": 3
+  },
+  {
+    "id": 5,
+    "title": "Little Fox",
+    "categoryId": 1,
+    "publisherId": 2,
+    "authorId": 3
+  },
+  {
+    "id": 6,
+    "title": "Yellow Duck",
+    "categoryId": 1,
+    "publisherId": 1,
+    "authorId": 3
+  },
+  {
+    "id": 7,
+    "title": "Farm Foe",
+    "categoryId": 1,
+    "publisherId": 1,
+    "authorId": 3
+  },
+  {
+    "id": 8,
+    "title": "Lighthouse Island",
+    "categoryId": 5,
+    "publisherId": 1,
+    "authorId": 1
+  },
+  {
+    "id": 9,
+    "title": "Flying Pig",
+    "categoryId": 2,
+    "publisherId": 2,
+    "authorId": 3
+  },
+  {
+    "id": 10,
+    "title": "Dear Run",
+    "categoryId": 5,
+    "publisherId": 0,
+    "authorId": 0
+  }
+]
